@@ -38,3 +38,19 @@ The main goal and purpose of this project was to improve my frontend skills by f
 - Better understanding of CSS layouts and positioning  
 - How to make a website responsive  
 - Adding simple interactivity using JavaScript
+
+# Live Website link
+https://prodesk-it-digital-agency-git-main-kchakritha143s-projects.vercel.app/
+
+# Preview
+<img width="1908" height="889" alt="image" src="https://github.com/user-attachments/assets/d229f8ed-2443-4458-ab93-eef896060b64" />
+<img width="1898" height="627" alt="image" src="https://github.com/user-attachments/assets/6528ac60-58b7-4357-bba9-84ab55a9971a" />
+Dark mode
+<img width="1892" height="772" alt="image" src="https://github.com/user-attachments/assets/dac14589-fe3b-4fee-bea0-a22f68dad122" />
+<img width="1902" height="888" alt="image" src="https://github.com/user-attachments/assets/4729a2fc-3b6f-4c3d-98ae-53cdec72f01e" />
+
+# Demo video
+
+
+
+
